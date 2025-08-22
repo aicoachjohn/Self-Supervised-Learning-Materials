@@ -13,7 +13,7 @@ my_card_images/ # Main dataset folder
 ├── cards_labeled_small/ # Small labeled subset for fine-tuning
 │ ├── <class folders or files> # Labeled images organized for supervised fine-tuning
 │ └── ...
-└── self_supervised_demo.py # Python script demonstrating the self-supervised learning pipeline
+└── Self_Supervised_Learning.py # Python script demonstrating the self-supervised learning pipeline
 
 
 ---
@@ -47,6 +47,7 @@ Ensure you have the following Python dependencies installed:
 ```bash
 pip install torch torchvision numpy matplotlib scikit-learn
 (Modify this list based on your actual imports in the script)
+```
 
 📌 Important Notes
 
