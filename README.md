@@ -40,15 +40,6 @@ This Python script demonstrates:
 
 ---
 
-## 🛠️ Requirements
-
-Ensure you have the following Python dependencies installed:
-
-```bash
-pip install torch torchvision numpy matplotlib scikit-learn
-(Modify this list based on your actual imports in the script)
-```
-
 📌 Important Notes
 
 This project is intended for educational and experimental purposes only.
