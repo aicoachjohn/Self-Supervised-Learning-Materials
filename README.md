@@ -1,4 +1,4 @@
-# 🧠 Self-Supervised Learning on Card Images (Educational Demo)
+# 🧠 Self-Supervised Learning on Card Images
 
 This repository contains an educational implementation of a **self-supervised learning pipeline** on a custom dataset of card images (ID cards, visiting cards, bank cards, etc.).
 
