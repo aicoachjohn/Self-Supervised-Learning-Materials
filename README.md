@@ -40,12 +40,9 @@ This Python script demonstrates:
 
 ---
 
-📌 Important Notes
+### 📌 Important Notes
 
-This project is intended for educational and experimental purposes only.
-
-It is NOT intended for production or commercial use.
-
-All dataset images used here are either synthetic, collected manually, or anonymized for demonstration.
-
-If you plan to reuse this repository, please give proper credit and ensure compliance with any applicable data privacy rules.
+- This project is intended for educational and experimental purposes only.
+- It is NOT intended for production or commercial use.
+- All dataset images used here are either synthetic, collected manually, or anonymized for demonstration.
+- If you plan to reuse this repository, please give proper credit and ensure compliance with any applicable data privacy rules.
